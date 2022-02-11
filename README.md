@@ -11,4 +11,4 @@ Je vais illustrer ce projet dans mon CV
 
 ## Lien Video
 
-![https://youtu.be/gIjcO38lvx8](https://youtu.be/gIjcO38lvx8)git 
+[https://youtu.be/gIjcO38lvx8](https://youtu.be/gIjcO38lvx8)git 
