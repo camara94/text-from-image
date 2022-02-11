@@ -8,3 +8,7 @@ Dans ce tutoriel je vais utilisé la librairie EasyOCR qui est un projet open so
 Je vais illustrer ce projet dans mon CV
 
 ![moncv](monCV.png)
+
+## Lien Video
+
+![https://youtu.be/gIjcO38lvx8](https://youtu.be/gIjcO38lvx8)git 
